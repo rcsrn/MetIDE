@@ -1,0 +1,12 @@
+{
+  "supabase_url": "https://jqhmaqjzszaqvlvrpfpq.supabase.co",
+  "table_name": "mapstruct_documents",
+  "embedding_model": "all-MiniLM-L6-v2",
+  "embedding_dimensions": 384,
+  "chunk_size": 1000,
+  "chunk_overlap": 200,
+  "total_documents_processed": 2,
+  "total_chunks_created": 1027,
+  "total_chunks_stored": null,
+  "processing_date": "2025-09-25T00:04:12.264896"
+}
